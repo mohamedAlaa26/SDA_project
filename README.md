@@ -1,5 +1,6 @@
-# moRepo
-trialRepo API service
+# SDA project 
+software design and archtecture
+
 
 
 
